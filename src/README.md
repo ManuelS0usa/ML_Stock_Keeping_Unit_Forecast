@@ -1,0 +1,1 @@
+# Global data model training splitted by clusters accodring to SKU stastical description
